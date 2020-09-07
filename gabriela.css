@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgba(252, 151, 0, 0.699);
+    font-family: 'Roboto', 'san-serif';
+}
+
+h1{
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    padding: 50px;
+    margin: 25px 50px 75px;
+}
+
+
+.lorem{
+    margin-top:100px ;
+    margin-bottom: 100px;
+    margin-left:100px;
+    margin-right:100px; 
+    background-color: white;
+    border-style: solid;
+    height: 100px;
+    border-width: 10px; 
+}
+
+.music{
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    padding: 50px;
+    margin: 25px 50px 75px;
+}
+
+.game{
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    padding: 50px;
+    margin: 25px 50px 75px;
+}
